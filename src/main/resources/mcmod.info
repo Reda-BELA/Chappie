@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "nexomod",
+    "name": "NexoMod",
+    "description": "Nexo Utility Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Reda"],
+    "credits": "Reda and Nexo",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
+
